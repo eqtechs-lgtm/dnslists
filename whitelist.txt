@@ -1,7 +1,7 @@
-@@||edu.ec^
-@@||gob.ec^
-@@||google.com^
-@@||google.com.ec^
-@@||dns.google^
-@@||googleapis.com^
-@@||quad9.net^
+||edu.ec^
+||gob.ec^
+||google.com^
+||google.com.ec^
+||dns.google^
+||googleapis.com^
+||quad9.net^
