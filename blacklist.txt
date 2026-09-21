@@ -1,1 +1,1 @@
-@@||bad-domain.com^
+||bad-domain.com^
