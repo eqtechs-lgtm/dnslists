@@ -4,3 +4,4 @@
 @@||google.com.ec^
 @@||dns.google^
 @@||googleapis.com^
+@@||quad9.net^
