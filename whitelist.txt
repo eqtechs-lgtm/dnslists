@@ -1,3 +1,5 @@
 @@||edu.ec^
 @@||gob.ec^
 @@||google.com^
+@@||dns.google^
+@@||googleapis.com^
