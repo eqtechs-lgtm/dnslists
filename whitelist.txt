@@ -1,0 +1,3 @@
+@@||edu.ec^
+@@||gob.ec^
+@@||google.com^
