@@ -5,3 +5,4 @@
 ||dns.google^
 ||googleapis.com^
 ||quad9.net^
+||funcionjudicial.gob.ec^
